@@ -201,7 +201,7 @@ for ticker in ticker:
     stock_hist['Portfolio Cumulative Returns'] = (1 + stock_hist['Portfolio Daily Returns']).cumprod() - 1
 
 # Print the DataFrame
-    print(f"The total return for {ticker} is {(stock_hist['Portfolio Cumulative Returns'][-1]*100)}")
+    st.write(f"The total return for {ticker} is {(stock_hist['Portfolio Cumulative Returns'][-1]*100)}")
     
     name = str(ticker)
     all_stock_df[name] = stock_hist
