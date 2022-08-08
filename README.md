@@ -34,7 +34,7 @@ This program uses the CANSLIM stock screener method, a system for selecting good
 
 ## Code Snippets and Results
 **Stock screener code
-![stock screener code snippet](C:\Users\zubai\Fintech-Workspace\Group_Project_2\project_2_canslim_screener\New folder/stock_screener_code.png)
+![Screenshot](stock_screener_code.png)
 
 
 ## Contributors
