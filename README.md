@@ -34,6 +34,17 @@ This program uses the CANSLIM stock screener method, a system for selecting good
 ## Code Snippets and Results
 
 ![image](images/screenshot1.png)
+** Stock screener code snippet **
+
+![image](images/screenshot2-sma.png)
+**  Algorithmic Trading with Machine Learning using SMA visualization **
+
+![image](images/screenshot3 - macd.png)
+**  Algorithmic Trading with Machine Learning using MACD visualization **
+
+![image](images/screenshot4 - lstm.png)
+** LSTM visualization **
+
 
 ## Contributors
 * Jarrett Lidell
