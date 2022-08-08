@@ -31,7 +31,9 @@ This program uses the CANSLIM stock screener method, a system for selecting good
 * More confidence due to a fully scalable investment strategy.
 * When the CANSLIM method is applied the results are filtered with the current (up-to-date) list of stocks that are outperforming in the market. The program's iteration functionality allows each stock that has been selected through the CANSLIM method to be analyzed, even if a different amount of stocks has been generated each time. Additionally, if a user would like to utilize a different strategy to select growth stocks, the program has the capability to utilize a different stock election strategy.
 
+## Code Snippets and Results
 
+![image](images/screenshot1.png)
 
 ## Contributors
 * Jarrett Lidell
